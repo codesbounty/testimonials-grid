@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Testimonial-grid-solution-Github](https://github.com/codesbounty/testimonials-grid)
-- Live Site URL: [testimonial-grid-solution-Vercel](https://your-live-site-url.com)
+- Live Site URL: [testimonial-grid-solution-Vercel](https://testimonials-grid-fawn.vercel.app/)
 
 ## My process
 ### Built With
