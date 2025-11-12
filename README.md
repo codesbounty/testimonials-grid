@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Testimonial-grid-solution-Github](https://github.com/codesbounty/testimonials-grid)
+- Live Site URL: [testimonial-grid-solution-Vercel](https://your-live-site-url.com)
 
 ## My process
 ### Built With
